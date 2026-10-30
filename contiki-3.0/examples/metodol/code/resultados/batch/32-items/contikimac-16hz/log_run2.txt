@@ -1,0 +1,13 @@
+ INFO [main] (Cooja.java:1324) - > Starting Cooja
+ INFO [main] (Cooja.java:2865) - External tools default settings: /external_tools_linux.config
+ WARN [main] (Cooja.java:2897) - Error when reading user settings from: /home/user/.cooja.user.properties
+ WARN [main] (Cooja.java:3631) - Loaded simulation may depend on not found  extension: '/home/user/contiki-3.0/tools/cooja/apps/mobility'
+ INFO [main] (Simulation.java:420) - Simulation random seed: 2034925793
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/user/contiki-3.0/examples/tmp_ws_batch_32-items_contikimac-16hz/node.sky
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/user/contiki-3.0/examples/tmp_ws_batch_32-items_contikimac-16hz/node.sky
+ INFO [main] (Cooja.java:1790) - Visualized plugin was not started: class org.contikios.cooja.plugins.SimControl
+ INFO [main] (Cooja.java:1790) - Visualized plugin was not started: class org.contikios.cooja.plugins.Visualizer
+ INFO [main] (Cooja.java:1790) - Visualized plugin was not started: class org.contikios.cooja.plugins.LogListener
+ INFO [main] (Cooja.java:1790) - Visualized plugin was not started: class org.contikios.cooja.plugins.TimeLine
+ INFO [main] (Cooja.java:1790) - Visualized plugin was not started: class org.contikios.cooja.plugins.Notes
+FATAL [main] (Cooja.java:3282) - No plugin controlling simulation, aborting
